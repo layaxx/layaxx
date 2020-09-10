@@ -5,4 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layaxx&layout=compact&theme=radical" />
 </a>
 
-*NOTE: Top languages does not indicate my skill level, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*Statistics provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+
+[PERSONAL WEBSITE](https://y-lang.eu)
