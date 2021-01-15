@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=layaxx&layout=compact&theme=radical" />
 </a>
   <br />
-*Statistics provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>
+<em>Statistics provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></em>
 <br />
 <a href="https://y-lang.eu">PERSONAL WEBSITE</a>
 </p>
