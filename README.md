@@ -4,6 +4,6 @@
 </a>
   <br />
 <em>Statistics provided by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></em>
-<br />
+<hr />
 <a href="https://y-lang.eu">PERSONAL WEBSITE</a>
 </p>
